@@ -51,7 +51,7 @@ BOARD_EGL_CFG := $(PLATFORM_PATH)/configs/graphics/egl.cfg
 # HIDL
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := \
     $(PLATFORM_PATH)/manifests/device_framework_matrix.xml \
-    vendor/lineage/config/device_framework_matrix.xml
+    vendor/lmodroid/config/device_framework_matrix.xml
 DEVICE_MANIFEST_FILE := $(PLATFORM_PATH)/manifests/manifest.xml
 DEVICE_MATRIX_FILE   := $(PLATFORM_PATH)/manifests/compatibility_matrix.xml
 

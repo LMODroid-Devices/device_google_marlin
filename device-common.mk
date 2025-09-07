@@ -322,7 +322,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay
-DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay-lineage
+DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay-lmodroid
 DEVICE_PACKAGE_OVERLAYS += device/google/marlin/$(PRODUCT_HARDWARE)/overlay
 
 PRODUCT_ENFORCE_RRO_TARGETS := *

@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_marlin.mk \
-    $(LOCAL_DIR)/lineage_sailfish.mk
+    $(LOCAL_DIR)/lmodroid_marlin.mk \
+    $(LOCAL_DIR)/lmodroid_sailfish.mk

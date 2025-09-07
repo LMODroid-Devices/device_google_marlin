@@ -1,9 +1,11 @@
-[	
+[
   {
+    "remote": "lineage",
     "repository": "android_hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep"
   },
   {
+    "remote": "lineage",
     "repository": "android_kernel_google_marlin",
     "target_path": "kernel/google/marlin"
   }
